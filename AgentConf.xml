@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<control>
+	<webServerIp>192.168.99.63</webServerIp>
+	<webServerPort>12345</webServerPort>
+	<dbhost>192.168.99.63</dbhost>
+	<dbuser>root</dbuser>
+	<dbpasswd>uestc8020</dbpasswd>
+	<dbname>crawler_portal</dbname>
+	<crawlerId>12</crawlerId>
+    <localIp>192.168.99.63</localIp>
+    <listenPort>43210</listenPort>
+</control>
